@@ -2,6 +2,9 @@
 
 One ticket per unit of work. Copy any block into GitHub Issues if you create a remote later.
 
+Custom map: [`tracker.html`](tracker.html) (open in a browser).  
+Optional roadmap.sh copy: [`roadmap.sh-prompt.txt`](roadmap.sh-prompt.txt)
+
 **Labels:** `phase-0` … `phase-7` · `learn` · `build` · `ship`  
 **Status:** `[ ]` Todo · `[~]` In progress · `[x]` Done
 

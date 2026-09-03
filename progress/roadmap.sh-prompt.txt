@@ -1,0 +1,32 @@
+Paste this at https://roadmap.sh/ai/roadmap
+1. Sign in (GitHub).
+2. Choose format: Roadmap (not Course / Guide).
+3. Put the TOPIC line in the main box, then use Customize / extra prompt if the UI offers it, and paste the rest.
+4. Generate, then Save to your account so you can right-click nodes (Done / Learning / Skipped).
+5. Free accounts usually allow only a small number of AI roadmaps (often 2). This uses one of them.
+6. The generator will rephrase nodes. Our exact plan (and real progress) lives in tracker.html — treat roadmap.sh as a second copy, not the source of truth.
+
+TOPIC:
+AI Engineer path for a senior Unity/C# engineer who is a Python beginner. Focus on shipping LLM products (RAG, evals, agents, FastAPI), not data science or training models from scratch. 7-9 months part-time.
+
+CUSTOM PROMPT (paste if the page has a prompt / instructions field):
+
+Create a learning roadmap with exactly these 8 sequential phases. Do not add Django, Flask, Kaggle, training foundation models, Kubernetes, or a Data Scientist career path.
+
+Phase 0 Python (weeks 1-3): venv, typing, dataclasses, files/JSON/pathlib. Exit: CLI that summarizes a folder of txt/json into summary.json.
+
+Phase 1 Data literacy (weeks 4-6): NumPy, Pandas, one chart, SQL SELECT/JOIN/GROUP BY. Exit: short analysis of a real dataset.
+
+Phase 2 ML literacy only (weeks 7-10): train/val/test, leakage, F1, sklearn Pipeline, 20-line PyTorch loop. Exit: Tfidf + logistic regression text classifier. Not an ML Engineer career.
+
+Phase 3 LLMs (weeks 11-14): tokens, temperature, system vs user messages, structured JSON prompts, OpenAI-compatible API plus one open/local model (Ollama or Groq), cost/latency, prompt injection. Exit: FastAPI POST /chat with history and token/cost in the response.
+
+Phase 4 RAG Portfolio 1 (weeks 15-20): chunking, embeddings, Chroma or Qdrant, retrieve-generate-cite, 20-question eval. Exit: Doc Q&A API with /ingest and /ask, Docker, architecture README.
+
+Phase 5 Agents and evals Portfolio 2 (weeks 21-26): golden-set eval harness that fails on regression, function calling with 3+ tools, logging of prompt/retrieval/latency/cost, Docker. Exit: agent repo, 30 evals, cost per 100 queries. Optional bilingual Arabic+English RAG for Gulf jobs.
+
+Phase 6 optional Unity (weeks 27-28): one of screenshot/sprite detector, Unity ML-Agents, or synthetic Unity data. After RAG exists.
+
+Phase 7 job package (weeks 27-30): two polished GitHub repos, LinkedIn Unity to AI Engineer, RAG system-design interview, apply to Egypt MNCs / remote GCC / UAE-KSA AI Engineer roles before the plan is perfect.
+
+Keep nodes short. Mark Phase 6 as optional.

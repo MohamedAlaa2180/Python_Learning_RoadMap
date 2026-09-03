@@ -1,7 +1,8 @@
 # Project board
 
 GitHub Project–style columns. Move issue IDs when you start or finish them.  
-Full tickets: [`ISSUES.md`](ISSUES.md).
+Full tickets: [`ISSUES.md`](ISSUES.md).  
+Skill nodes: open [`tracker.html`](tracker.html) in a browser.
 
 **Done = Proof link exists** (commit, demo, or notes). Video-only does not move to Done.
 

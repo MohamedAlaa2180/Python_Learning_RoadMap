@@ -5,7 +5,8 @@ Personal plan for a **senior Unity / C# engineer**, Python beginner, targeting *
 **Cadence:** ~8–12 hours/week → about **7–9 months** to a hireable portfolio.  
 **Rule:** a phase is done when the **project ships**, not when a course hits 100%.
 
-Track progress here with checkboxes. Detailed tickets live in [`progress/ISSUES.md`](progress/ISSUES.md). Kanban: [`progress/BOARD.md`](progress/BOARD.md).
+**Custom map (tick nodes here):** open [`progress/tracker.html`](progress/tracker.html) in a browser.  
+Details: [`progress/ISSUES.md`](progress/ISSUES.md) · this week: [`progress/BOARD.md`](progress/BOARD.md) · roadmap.sh notes: [`progress/ROADMAP_SH.md`](progress/ROADMAP_SH.md).
 
 ---
 
@@ -19,7 +20,7 @@ Python → data literacy → enough ML to not be fake
 
 Skip: web frontend, competitive programming, Kaggle-as-a-lifestyle, TensorFlow-first, “100 Python exercises.”
 
-**Weekly ritual (15 min):** mark a box only if **Proof** exists (commit URL, demo, or notes file). Watching videos does not count as Done.
+**Weekly ritual (15 min):** mark a box here only if **Proof** exists (commit URL, demo, or notes file). Then mark the same skill **Done** on roadmap.sh. Watching videos does not count as Done.
 
 ---
 
@@ -219,13 +220,13 @@ If you only have ~5h/week, stretch each block ~1.5× and **cut Phase 6**.
 
 | Tool | Role |
 | --- | --- |
-| **This repo** (`ROADMAP.md` + `progress/`) | Source of truth |
-| [roadmap.sh](https://roadmap.sh/) — AI Engineer, Python, AI Agents | Industry skill map + account checkboxes |
-| Notion | Optional nicer UI; same columns as issues |
+| [`progress/tracker.html`](progress/tracker.html) | **Your custom map** + progress % |
+| [roadmap.sh AI generator](https://roadmap.sh/ai/roadmap) | Optional mirror — prompt in [`progress/roadmap.sh-prompt.txt`](progress/roadmap.sh-prompt.txt) |
+| This repo | Tickets, proof, projects |
 | DeepLearning.AI / Coursera short courses | After Phase 3 only |
 | [Hugging Face Learn](https://huggingface.co/learn) | Free, job-relevant modules |
 
-Don’t optimize for certificate %. Hiring managers open **GitHub**.
+Don’t optimize for roadmap.sh % or certificates. Hiring managers open **GitHub**.
 
 ---
 

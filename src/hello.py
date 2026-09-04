@@ -5,10 +5,3 @@ name , *details , country = person
 print(name)
 print(details)
 print(country)
-
-
-
-
-
-
-

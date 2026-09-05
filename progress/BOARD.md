@@ -8,7 +8,7 @@ Skill nodes: open [`tracker.html`](tracker.html) in a browser.
 
 ## Backlog
 
-- P0-01, P0-02, P0-03, P0-04
+- P0-01, P0-02, P0-03
 - P1-01, P1-02, P1-03, P1-04
 - P2-01, P2-02, P2-03, P2-04
 - P3-01, P3-02, P3-03, P3-04
@@ -23,7 +23,7 @@ Skill nodes: open [`tracker.html`](tracker.html) in a browser.
 
 ## In progress (WIP limit: 1 learn + 1 build)
 
-- 
+- P0-04 
 
 ## Done
 

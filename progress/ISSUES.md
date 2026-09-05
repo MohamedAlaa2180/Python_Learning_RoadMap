@@ -68,7 +68,7 @@ Update [`BOARD.md`](BOARD.md) when you change status.
 
 ### P0-04 · Ship CLI file summarizer
 
-- Status: [ ]
+- Status: [~]
 - Labels: `phase-0`, `build`, `ship`
 - Weeks: 3
 - **Exit ticket for Phase 0**

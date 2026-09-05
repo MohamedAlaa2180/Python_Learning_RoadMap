@@ -1,0 +1,4 @@
+[info] started scan
+[info] found notes.txt
+[warn] skipped summary.json
+[info] scan complete

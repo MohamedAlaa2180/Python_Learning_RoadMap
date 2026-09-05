@@ -1,0 +1,4 @@
+File summarizer sample notes.
+
+This folder is the input for P0-04.
+The CLI should count these lines and ignore summary.json.

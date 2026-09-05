@@ -1,0 +1,6 @@
+{
+  "project": "file-summarizer",
+  "phase": "P0-04",
+  "extensions": [".txt", ".json"],
+  "output": "summary.json"
+}

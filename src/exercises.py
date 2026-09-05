@@ -1,36 +1,17 @@
-player = {"name" : "Mohamed", "score" : 100}
+import numpy as np
 
-scores = [100, 90, 80, 70, 60,50,40,30,20,10]
+x = np.array([[1, 2, 3], [4, 5, 6], [7, 8, 9], [10, 11, 12], [13, 14, 15]])
 
-high_scores = []
-
-for s in scores:
-    if s >= 50:
-        high_scores.append(s)
-
-print(high_scores)
-
-from dataclasses import dataclass
-from pydoc import text
-
-@dataclass
-class Player:
-    name: str
-    score: int
-
-
-def top(players: list[Player]) -> Player:
-    return max(players, key=lambda player: player.score)
-
-
-roster = [Player("Mohamed", 100), Player("Ali", 90), Player("Ahmed", 80)]
-
-best = top(roster)
-print(best.name, best.score)
-
-
-try:
-    text = open("notes.txt", encoding="utf-8").read()
-    print(text)
-except FileNotFoundError:
-    print("File not found")
+print(x.shape)
+print(x.size)
+print(x.ndim)
+print(x.dtype)
+print(x.itemsize)
+print(x.nbytes)
+print(x.strides)
+print(x.flags)
+print(x.real)
+print(x.imag)
+print(x.flat)
+print(x.flat[0])
+print(x.flat[1])

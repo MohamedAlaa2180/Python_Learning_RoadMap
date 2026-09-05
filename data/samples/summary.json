@@ -1,0 +1,32 @@
+{
+  "folder": "data/samples",
+  "files": 4,
+  "by_ext": {
+    ".json": 2,
+    ".txt": 2
+  },
+  "total_lines": 8,
+  "total_json_keys": 7,
+  "files_detail": [
+    {
+      "name": "config.json",
+      "ext": ".json",
+      "keys": 4
+    },
+    {
+      "name": "log.txt",
+      "ext": ".txt",
+      "lines": 4
+    },
+    {
+      "name": "notes.txt",
+      "ext": ".txt",
+      "lines": 4
+    },
+    {
+      "name": "players.json",
+      "ext": ".json",
+      "keys": 3
+    }
+  ]
+}
